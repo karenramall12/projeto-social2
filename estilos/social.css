@@ -16,6 +16,7 @@ img{
 }
 
     a {
+        
         display: block;
         background-color: darkred;
         color: white;
@@ -24,7 +25,6 @@ img{
         font-family: bolder;
         text-decoration: none;
         margin-right: 20px;
-
 }
 a:hover{
     background-color: red;
