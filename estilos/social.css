@@ -11,16 +11,19 @@
 }
 img{
     width: 100vw;
+    margin: auto;
 
 }
-a{
-    display: block;
-    background-color: darkred;
-    color: white;
-    padding: 20px;
-    text-align: center;
-    font-family: bolder;
-    text-decoration: none;
+
+    a {
+        display: block;
+        background-color: darkred;
+        color: white;
+        padding: 500px;
+        text-align: center;
+        font-family: bolder;
+        text-decoration: none;
+        margin-right: 200px;
 
 }
 a:hover{
